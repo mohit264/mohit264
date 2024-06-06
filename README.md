@@ -1,3 +1,4 @@
+![github-header-image (17)](https://github.com/mohit264/mohit264/assets/19527422/1a902ac6-3ce7-41a6-bde0-9fff7543ed17)
 <h1 align="center">Hi 👋, I'm Mohit Dharmadhikari</h1>
 <h3 align="center">A passionate web developer from India, helping professionals to build expertise in git!</h3>
 

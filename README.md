@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohit_dharma" target="blank"><img src="https://img.shields.io/twitter/follow/mohit_dharma?logo=twitter&style=for-the-badge" alt="mohit_dharma" /></a> </p>
 
-- 🔭 I’m currently working on **.NET, C#, Azure, JavaScript and DevOps**
+- 🔭 I’m currently working on **.NET, MERN, Docker, Kubernetes, Cloud and DevOps**
 
 - 🌱 I’m currently learning **React, GitHub Actions!**
 

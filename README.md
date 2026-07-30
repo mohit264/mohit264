@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [Remote Opportunities](https://topmate.io/mohitdharmadhikari)
 
-- 💬 Ask me about **git, .NET**
+- 💬 Ask me about **git, GitHub, .NET, Docker, Kubernetes**
 
 - 📫 How to reach me **mohit.dharma@gmail.com**
 - [My CV](https://bold.pro/my/mohit-dharmadhikari)
